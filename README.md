@@ -6,7 +6,7 @@ You can decide which platform to work with, so either **iOS** or **Android**. We
 
 The following github repo contains a simple app design flow mockup that we would like you to follow. We will provide you two API endpoints that will return data back via JSON. It is therefore up to you to use this data to present the data back in a design similar to the mocku provided. 
 
-The endpoint URLs are list below:
+The endpoint URLs are listed below:
 - https://frontendtest.mainlinemenswear.co.uk/products
 - https://frontendtest.mainlinemenswear.co.uk/product/{productId}
 
